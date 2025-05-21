@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+bleach
+fastapi-utils
+python-multipart
+typing-inspect
+tinycss2
+bs4
+aiofiles
+python-magic
